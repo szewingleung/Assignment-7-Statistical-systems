@@ -1,2 +1,2 @@
 # Assignment-7-Statistical-systems
-markov chain of tranvesty
+This is the repo of Assignment7 Statistical-systems
